@@ -1,6 +1,4 @@
-running instructions
-```
-install
+running instructions: install
 ```
 npm install
 ```
